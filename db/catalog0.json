@@ -1,0 +1,149 @@
+[
+    {
+    "id": "catalog0-good0",
+    "name": "ПП Рисовая каша",
+    "descr": "",
+    "price": 169,
+    "image": "../img/goods/catalog0/1.png"
+    },
+    {
+    "id": "catalog0-good1",
+    "name": "ПП Овсяная каша",
+    "descr": "",
+    "price": 149,
+    "image": "../img/goods/catalog0/2.png"
+    },
+    {
+    "id": "catalog0-good2",
+    "name": "ПП Итальянский салат",
+    "descr": "",
+    "price": 189,
+    "image": "../img/goods/catalog0/3.png"
+    },
+    {
+    "id": "catalog0-good3",
+    "name": "ПП Салат «Луи»",
+    "descr": "",
+    "price": 399,
+    "image": "../img/goods/catalog0/4.png"
+    },
+    {
+    "id": "catalog0-good4",
+    "name": "ПП Салат «Цезарь»",
+    "descr": "",
+    "price": 269,
+    "image": "../img/goods/catalog0/5.png"
+    },
+    {
+    "id": "catalog0-good5",
+    "name": "ПП Салат с запечённой тыквой",
+    "descr": "",
+    "price": 179,
+    "image": "../img/goods/catalog0/6.png"
+    },
+    {
+    "id": "catalog0-good6",
+    "name": "ПП Салат с креветками и яйцом пашот",
+    "descr": "",
+    "price": 399,
+    "image": "../img/goods/catalog0/7.png"
+    },
+    {
+    "id": "catalog0-good7",
+    "name": "ПП Салат с курицей и ананасом",
+    "descr": "",
+    "price": 189,
+    "image": "../img/goods/catalog0/8.png"
+    },
+    {
+    "id": "catalog0-good8",
+    "name": "ПП Салат с сёмгой и грейпфрутом",
+    "descr": "",
+    "price": 379,
+    "image": "../img/goods/catalog0/9.png"
+    },
+    {
+    "id": "catalog0-good9",
+    "name": "ПП Сёмга на пару с овощами",
+    "descr": "",
+    "price": 659,
+    "image": "../img/goods/catalog0/10.png"
+    },
+    {
+    "id": "catalog0-good10",
+    "name": "ПП Сёмга с вишнёвым соусом",
+    "descr": "",
+    "price": 529,
+    "image": "../img/goods/catalog0/11.png"
+    },
+    {
+    "id": "catalog0-good11",
+    "name": "ПП Курзе с мясом",
+    "descr": "",
+    "price": 299,
+    "image": "../img/goods/catalog0/12.png"
+    },
+    {
+    "id": "catalog0-good12",
+    "name": "ПП Грибной крем-суп",
+    "descr": "",
+    "price": 169,
+    "image": "../img/goods/catalog0/13.png"
+    },
+    {
+    "id": "catalog0-good13",
+    "name": "ПП Спагетти из полбы с сёмгой",
+    "descr": "",
+    "price": 399,
+    "image": "../img/goods/catalog0/14.png"
+    },
+    {
+    "id": "catalog0-good14",
+    "name": "ПП Спагетти из полбы с цыплёнком и грибами",
+    "descr": "",
+    "price": 279,
+    "image": "../img/goods/catalog0/15.png"
+    },
+    {
+    "id": "catalog0-good15",
+    "name": "ПП Тонкий хинкал",
+    "descr": "",
+    "price": 99,
+    "image": "../img/goods/catalog0/16.png"
+    },
+    {
+    "id": "catalog0-good16",
+    "name": "ПП Блинчики",
+    "descr": "",
+    "price": 169,
+    "image": "../img/goods/catalog0/17.png"
+    },
+    {
+    "id": "catalog0-good17",
+    "name": "ПП Панкейки",
+    "descr": "",
+    "price": 199,
+    "image": "../img/goods/catalog0/18.png"
+    },
+    {
+    "id": "catalog0-good18",
+    "name": "ПП Панна-котта",
+    "descr": "",
+    "price": 219,
+    "image": "../img/goods/catalog0/19.png"
+    },
+    {
+    "id": "catalog0-good19",
+    "name": "ПП Ролл «Филадельфия-киноа»",
+    "descr": "",
+    "price": 349,
+    "image": "../img/goods/catalog0/20.png"
+    },
+    {
+    "id": "catalog0-good20",
+    "name": "ПП Сырники",
+    "descr": "",
+    "price": 239,
+    "image": "../img/goods/catalog0/21.png"
+    }
+]

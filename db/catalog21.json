@@ -1,0 +1,254 @@
+[
+    {
+        "id": "catalog21-good0",
+        "name": "Компот из кураги 1л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/1.png"
+    },
+    {
+        "id": "catalog21-good1",
+        "name": "Архыз 0,5л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/2.png"
+    },
+    {
+        "id": "catalog21-good2",
+        "name": "Coca-Cola 1л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/3.png"
+    },
+    {
+        "id": "catalog21-good3",
+        "name": "Сок из белого винограда 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/4.png"
+    },
+    {
+        "id": "catalog21-good4",
+        "name": "Coca-Cola 0,33л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/5.png"
+    },
+    {
+        "id": "catalog21-good5",
+        "name": "Рычал-Су 0,5л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/6.png"
+    },
+    {
+        "id": "catalog21-good6",
+        "name": "Adrenaline Rush 0,25мл",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/7.png"
+    },
+    {
+        "id": "catalog21-good7",
+        "name": "Fanta 0,25мл",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/8.png"
+    },
+    {
+        "id": "catalog21-good8",
+        "name": "Fanta 1л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/9.png"
+    },
+    {
+        "id": "catalog21-good9",
+        "name": "Sprite 1л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/10.png"
+    },
+    {
+        "id": "catalog21-good10",
+        "name": "Sprite 0,25л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/11.png"
+    },
+    {
+        "id": "catalog21-good11",
+        "name": "Ананасовый сок 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/12.png"
+    },
+    {
+        "id": "catalog21-good12",
+        "name": "Апельсиновый сок 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/13.png"
+    },
+    {
+        "id": "catalog21-good13",
+        "name": "Сок-мультифрут 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/14.png"
+    },
+    {
+        "id": "catalog21-good14",
+        "name": "Персиковый сок 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/15.png"
+    },
+    {
+        "id": "catalog21-good15",
+        "name": "Сок из чёрного винограда 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/16.png"
+    },
+    {
+        "id": "catalog21-good16",
+        "name": "Вишнёвый сок 1л",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/17.png"
+    },
+    {
+        "id": "catalog21-good17",
+        "name": "Томатный сок 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/18.png"
+    },
+    {
+        "id": "catalog21-good18",
+        "name": "Яблочный сок 1л ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog21/19.png"
+    },
+    {
+        "id": "catalog21-good19",
+        "name": "Лимонад «GAMBIT» (By Di) 1л",
+        "descr": "Фирменный лимонад с бананами, грушей и сиропом Блю Курасао, придающим ему необычный вкус и оттенок",
+        "price": 100,
+        "image": "../img/goods/catalog21/21.png"
+    },
+    {
+        "id": "catalog21-good20",
+        "name": "Мангово-мятный лимонад 1л",
+        "descr": "Освежающий сладкий лимонад из спелого манго и прохладной мятой",
+        "price": 100,
+        "image": "../img/goods/catalog21/22.png"
+    },
+    {
+        "id": "catalog21-good21",
+        "name": "Лимонад «Тропический тархун» 1л",
+        "descr": "Цитрусовый лимонад на основе апельсинового свежевыжатого сока, с дольками лайма и апельсина",
+        "price": 100,
+        "image": "../img/goods/catalog21/23.png"
+    },
+    {
+        "id": "catalog21-good22",
+        "name": "Лимонад «Ситро» 1л",
+        "descr": "Освежающий заряд летних цитрусов: лимонад на основе апельсина, грейпфрута, лимона и лайма",
+        "price": 100,
+        "image": "../img/goods/catalog21/24.png"
+    },
+    {
+        "id": "catalog21-good23",
+        "name": "Лимонад «Тропический» 1л",
+        "descr": "Экзотический лимонад на основе ананасового сока с добавлением киви, бананов, манго, маракуйи, личи и кокоса",
+        "price": 100,
+        "image": "../img/goods/catalog21/25.png"
+    },
+    {
+        "id": "catalog21-good24",
+        "name": "Яблочно-Грушевый лимонад 1л ",
+        "descr": "Яркий вкус яблочного фреша в сочетании со спелой грушей",
+        "price": 100,
+        "image": "../img/goods/catalog21/26.png"
+    },
+    {
+        "id": "catalog21-good25",
+        "name": "Ягодный лимонад 1л ",
+        "descr": "Лимонад с насыщенным вкусом красных ягод",
+        "price": 100,
+        "image": "../img/goods/catalog21/27.png"
+    },
+    {
+        "id": "catalog21-good26",
+        "name": "Ягодный морс 1л",
+        "descr": "Охлажденный домашний ягодный морс",
+        "price": 100,
+        "image": "../img/goods/catalog21/28.png"
+    },
+    {
+        "id": "catalog21-good27",
+        "name": "Клубнично-имбирный лимонад 1л ",
+        "descr": "Необычное пряное сочетание сладкой клубники и острого имбиря",
+        "price": 100,
+        "image": "../img/goods/catalog21/1.png"
+    },
+    {
+        "id": "catalog21-good28",
+        "name": "Клубнично-апельсиновый лимонад 1л ",
+        "descr": "Кисло-сладкий свежий вкус спелых апельсинов и сочной сладкой клубники",
+        "price": 100,
+        "image": "../img/goods/catalog21/29.png"
+    },
+    {
+        "id": "catalog21-good29",
+        "name": "Дюшес 1л",
+        "descr": "Знакомый с детства грушевый «Дюшес» в сочетании со свежей спелой клубникой",
+        "price": 100,
+        "image": "../img/goods/catalog21/30.png"
+    },
+    {
+        "id": "catalog21-good30",
+        "name": "Холодный ягодный чай 1л",
+        "descr": "Чёрный чай с ягодами свежей клубники и малины",
+        "price": 100,
+        "image": "../img/goods/catalog21/31.png"
+    },
+    {
+        "id": "catalog21-good31",
+        "name": "Холодный манговый чай 1л",
+        "descr": "Холодный зеленый чай со свежей грушей и сочным манго",
+        "price": 100,
+        "image": "../img/goods/catalog21/32.png"
+    },
+    {
+        "id": "catalog21-good32",
+        "name": "Холодный лимонный чай 1л",
+        "descr": "Классический рецепт черного чая с лимоном и лаймом",
+        "price": 100,
+        "image": "../img/goods/catalog21/33.png"
+    },
+    {
+        "id": "catalog21-good33",
+        "name": "Розовая сангрия 1л",
+        "descr": "Домашний ягодный напиток из двух сортов винограда, клубники, апельсина, гранатового сока и розмарина",
+        "price": 100,
+        "image": "../img/goods/catalog21/34.png"
+    },
+    {
+        "id": "catalog21-good34",
+        "name": "Красная сангрия 1л ",
+        "descr": "Прохладная сангрия из красного винограда со свежей мятой, апельсином и соком спелой вишни",
+        "price": 100,
+        "image": "../img/goods/catalog21/35.png"
+    },
+    {
+        "id": "catalog21-good35",
+        "name": "Белая сангрия 1л",
+        "descr": "Сангрия из белого сорта винограда с сочным спелым яблоком и пряной корицей",
+        "price": 100,
+        "image": "../img/goods/catalog21/36.png"
+    }
+]

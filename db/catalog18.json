@@ -1,0 +1,163 @@
+[
+    {
+        "id": "catalog18-good0",
+        "name": "Кетчуп «Heinz»",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/1.png"
+    },
+    {
+        "id": "catalog18-good1",
+        "name": "Майонез",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/2.png"
+    },
+    {
+        "id": "catalog18-good2",
+        "name": "Васаби",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/3.png"
+    },
+    {
+        "id": "catalog18-good3",
+        "name": "Горчица",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/4.png"
+    },
+    {
+        "id": "catalog18-good4",
+        "name": "Кимчи ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/5.png"
+    },
+    {
+        "id": "catalog18-good5",
+        "name": "Мафия-гриль",
+        "descr": "Ароматный соус из свежих и вяленых томатов с чесноком, тертым пармезаном и стручковым перцем",
+        "price": 100,
+        "image": "../img/goods/catalog18/6.png"
+    },
+    {
+        "id": "catalog18-good6",
+        "name": "Наршараб",
+        "descr": "Традиционный азербайджанский гранатовый соус",
+        "price": 100,
+        "image": "../img/goods/catalog18/7.png"
+    },
+    {
+        "id": "catalog18-good7",
+        "name": "Ореховый соус",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/8.png"
+    },
+    {
+        "id": "catalog18-good8",
+        "name": "Соус «Песто»",
+        "descr": "Итальянский соус на основе ароматного базилика, оливкового масла, сыра и семян пинии",
+        "price": 100,
+        "image": "../img/goods/catalog18/9.png"
+    },
+    {
+        "id": "catalog18-good9",
+        "name": "Сливочно-грибной соус",
+        "descr": "Нежный соус на основе сливок и обжаренных шампиньонов",
+        "price": 100,
+        "image": "../img/goods/catalog18/10.png"
+    },
+    {
+        "id": "catalog18-good10",
+        "name": "Сливочно-икорный соус",
+        "descr": "Соус с солоновато-нежным вкусом красной икры",
+        "price": 100,
+        "image": "../img/goods/catalog18/11.png"
+    },
+    {
+        "id": "catalog18-good11",
+        "name": "Сливочный соус «4 сыра»",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/12.png"
+    },
+    {
+        "id": "catalog18-good12",
+        "name": "Соевый соус",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/13.png"
+    },
+    {
+        "id": "catalog18-good13",
+        "name": "Соус спайси",
+        "descr": "Японский острый соус с выраженной кислинкой",
+        "price": 100,
+        "image": "../img/goods/catalog18/14.png"
+    },
+    {
+        "id": "catalog18-good14",
+        "name": "Тартар",
+        "descr": "Французский соус на основе зеленого лука и каперсов",
+        "price": 100,
+        "image": "../img/goods/catalog18/15.png"
+    },
+    {
+        "id": "catalog18-good15",
+        "name": "Терияки",
+        "descr": "Кисло-сладкий японский соус на основе имбиря, соевого соуса и других пряностей",
+        "price": 100,
+        "image": "../img/goods/catalog18/16.png"
+    },
+    {
+        "id": "catalog18-good16",
+        "name": "Ткемали из алычи",
+        "descr": "Знаменитый грузинский соус на основе алычи и пряных трав",
+        "price": 100,
+        "image": "../img/goods/catalog18/17.png"
+    },
+    {
+        "id": "catalog18-good17",
+        "name": "Томатно-чесночный соус ",
+        "descr": "Классический рецепт соуса из свежих томатов с острым чесноком",
+        "price": 100,
+        "image": "../img/goods/catalog18/18.png"
+    },
+    {
+        "id": "catalog18-good18",
+        "name": "Хрен",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/19.png"
+    },
+    {
+        "id": "catalog18-good19",
+        "name": "Чесночный соус ",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/20.png"
+    },
+    {
+        "id": "catalog18-good20",
+        "name": "Сметана",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/21.png"
+    },
+    {
+        "id": "catalog18-good21",
+        "name": "Кефир",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/22.png"
+    },
+    {
+        "id": "catalog18-good22",
+        "name": "Маринованный имбирь",
+        "descr": "",
+        "price": 100,
+        "image": "../img/goods/catalog18/23.png"
+    }
+]

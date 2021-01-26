@@ -1,0 +1,90 @@
+[
+  {
+    "id": "catalog0",
+    "name": "Правильное питание"
+  },
+  {
+    "id": "catalog1",
+    "name": "Наборы"
+  },
+  {
+    "id": "catalog2",
+    "name": "Дагестанская кухня"
+  },
+  {
+    "id": "catalog3",
+    "name": "Японское меню"
+  },
+  {
+    "id": "catalog4",
+    "name": "Завтраки"
+  },
+  {
+    "id": "catalog5",
+    "name": "Салаты"
+  },
+  {
+    "id": "catalog6",
+    "name": "Холодные закуски"
+  },
+  {
+    "id": "catalog7",
+    "name": "Супы"
+  },
+  {
+    "id": "catalog8",
+    "name": "Блюда из мяса"
+  },
+  {
+    "id": "catalog9",
+    "name": "Блюда из рыбы"
+  },
+  {
+    "id": "catalog10",
+    "name": "Блюда из птицы"
+  },
+  {
+    "id": "catalog11",
+    "name": "Паста"
+  },
+  {
+    "id": "catalog12",
+    "name": "Пицца"
+  },
+  {
+    "id": "catalog13",
+    "name": "Шашалыки"
+  },
+  {
+    "id": "catalog14",
+    "name": "Шаурма"
+  },
+  {
+    "id": "catalog15",
+    "name": "Бургеры"
+  },
+  {
+    "id": "catalog16",
+    "name": "Гарниры"
+  },
+  {
+    "id": "catalog17",
+    "name": "Горячие закуски"
+  },
+  {
+    "id": "catalog18",
+    "name": "Соусы"
+  },
+  {
+    "id": "catalog19",
+    "name": "Хлебные изделия"
+  },
+  {
+    "id": "catalog20",
+    "name": "Десерты"
+  },
+  {
+    "id": "catalog21",
+    "name": "Напитки"
+  }
+]
